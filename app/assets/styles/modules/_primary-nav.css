@@ -43,7 +43,7 @@
     display: block;
     padding: 5px 8px;
     font-size: 0.8rem;
-    background-color: rgba(47, 85, 114, 0.7);
+    background-color: rgba(47, 85, 114);
 
     @mixin atMedium {
       font-size: 1rem;
